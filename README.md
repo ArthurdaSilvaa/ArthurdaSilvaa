@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arthur Pereira da Silva
+# Olá 👋, eu sou Arthur Pereira da Silva
 
 🚀 **Desenvolvedor Backend Jr | Full Stack em formação**  
 🇧🇷 Ourinhos - SP, Brasil
